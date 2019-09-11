@@ -1,0 +1,58 @@
+
+<travel>
+	<trip>
+		<name>France</name>
+		<destination>Paris</destination>
+		<destinationTwo>Lyon</destinationTwo>
+		<season>Summer</season>
+		<cost>€900</cost>
+		<hotel>€150</hotel>
+	</trip>
+	
+	<trip>
+		<name>USA</name>
+		<destination>New York</destination>
+		<destinationTwo>San Francisco</destinationTwo>
+		<season>Autumn</season>
+		<cost>€500</cost>
+		<hotel>300</hotel>
+	</trip>
+	
+	<trip>
+		<name>UK</name>
+		<destination>London</destination>
+		<destinationTwo>Manchester</destinationTwo>
+		<season>Spring</season>
+		<cost>€200</cost>
+		<hotel>€250</hotel>
+	</trip>
+	
+	<trip>
+		<name>Italy</name>
+		<destination>Pisa</destination>
+		<destinationTwo>Cinque Terre</destinationTwo>
+		<season>Summer</season>
+		<cost>€500</cost>
+		<hotel>€120</hotel>
+	</trip>
+	
+	<trip>
+		<name>Norway</name>
+		<destination>Oslo</destination>
+		<destinationTwo>None</destinationTwo>
+		<season>Summer</season>
+		<cost>€800</cost>
+		<hotel>€300</hotel>
+	</trip>
+	
+	<trip>
+		<name>Austria</name>
+		<destination>Vienna</destination>
+		<destinationTwo>None</destinationTwo>
+		<season>Summer</season>
+		<cost>€900</cost>
+		<hotel>€280</hotel>
+	</trip>
+	
+	
+</travel>
